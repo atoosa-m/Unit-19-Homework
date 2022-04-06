@@ -7,4 +7,17 @@ Let's say I work at a startup that is building a new and disruptive platform cal
 
 In this Challenge, I completed the code that enables my customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, I assumed the perspective of a Fintech Finder customer who is using the application to find a fintech professional and pay them for their work.  
 
+### Fintech Finder App
+![Fintech_Finder](https://user-images.githubusercontent.com/93611442/161889321-84344f65-f2c5-4a03-8a9d-258401816187.jpg)  
+
+### Transaction Validation - Ganache Accounts Tab  
+![Ganache_Accounts_Tab](https://user-images.githubusercontent.com/93611442/161889344-5041f829-d40d-4abc-bcff-b865c04ce094.jpg)  
+  
+  
+
+### Transaction Validation - Ganache Transactions Tab  
+![Ganache_Transactions_Tab](https://user-images.githubusercontent.com/93611442/161889366-6e97aea0-78a9-4d53-8820-b24dca4ca91c.jpg)
+
+
+
 
